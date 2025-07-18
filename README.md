@@ -41,7 +41,7 @@ node build/index.js
   "mcpServers": {
     "weather-node": {
       "command": "node",
-      "args": ["/PATH/TO/HERE/weather-node/build/index.js"]
+      "args": ["/PATH/TO/HERE/weather-node-mcp/build/index.js"]
     }
   }
 }
